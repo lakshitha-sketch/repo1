@@ -1,0 +1,6 @@
+Welcome to file3!
+This is the third file in this repository.
+This file contains sample text content.
+It may or may not contain information regarding GitHub.
+This is a sample line 1.
+This is a sample line 2.
